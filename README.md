@@ -1,6 +1,10 @@
 # Streamflow Business: the back office after launch
 
-An original seven-post content entry for the Streamflow Business Superteam Earn bounty.
+An original content entry for the Streamflow Business Superteam Earn bounty.
+
+**Published entry:** [View the complete X thread](https://x.com/Dillxn/status/2077953318563758489)
+
+The final delivery is an eight-post X conversation with an original lead visual, six substantive text posts, the required `@streamflow_fi` mention, and the exact campaign CTA. The planned long-form copy and source checks are preserved below.
 
 ![Streamflow Business token operations visual](streamflow-business-token-ops.png)
 
